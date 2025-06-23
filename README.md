@@ -11,4 +11,4 @@ Keenan Bates1+, K.L. Nikhil1+, Elizabeth Sapiro1, Jacob L. Amme1, Ronald McCarth
 
 Short title: Maternal-fetal circadian synchrony
 
-Manuscript ID JBR-24-0154  
+Manuscript ID JBR-24-0154 
