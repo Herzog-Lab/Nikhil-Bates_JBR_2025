@@ -1,5 +1,5 @@
 Supporting data and analysis scripts for 
-Fetal circadian rhythms develop and then synchronize to the mother in utero
+ Fetoplacental circadian rhythms develop and then synchronize to the mother in utero 
 
 K.L. Nikhil1+, Keenan Bates1+, Elizabeth Sapiro1, Jacob L. Amme1, Ronald McCarthy2, Sarah L. Speck1, Varun Vasireddy1, Ethan Roberts1, Carmel A. Martin-Fairey1,3, Miguel-E. Domínguez-Romero1, Sandra Paola Cárdenas-García1, Sarah K. England2, and Erik D. Herzog1* 
 1Department of Biology, Washington University, St. Louis, MO 
@@ -8,7 +8,7 @@ K.L. Nikhil1+, Keenan Bates1+, Elizabeth Sapiro1, Jacob L. Amme1, Ronald McCarth
 *Corresponding author: herzog@wustl.edu 
 +These authors contributed equally
 
-Short title: Maternal-fetal circadian synchrony
+Short title: Development of in utero circadian rhythms
 
 Manuscript ID JBR-24-0154 
 
