@@ -6,6 +6,7 @@ K.L. Nikhil1+, Keenan Bates1+, Elizabeth Sapiro1, Jacob L. Amme1, Ronald McCarth
 1Department of Biology, Washington University, St. Louis, MO 
 2Department of Obstetrics and Gynecology, Center for Reproductive Health Sciences, Washington University Medicine
 3Current address: Department of Biology, Harris-Stowe State University, St. Louis, MO 
+
 *Corresponding author: herzog@wustl.edu 
 +These authors contributed equally
 
